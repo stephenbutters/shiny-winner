@@ -1,127 +1,78 @@
 Country,Date Start,Keywords,Level
-China,12/18/2019,first case,0
-China,12/25/2019,"compulsory isolation, targeted isolation",0
-China,12/30/2019,"case reporting, source tracing",0
-China,1/1/2020,business suspension,0
-China,1/3/2020,"research, source tracing",0
-China,1/8/2020,public announcement,0
-China,1/10/2020,"case reporting, first case",0
-China,1/12/2020,"public announcement, research, source tracing",0
-China,1/15/2020,case reporting,0
-China,1/20/2020,first case,0
-China,1/20/2020,task group,0
+China,1/22/2020,,1
+China,1/23/2020,,1
+China,1/24/2020,,1
+China,1/25/2020,,1
+China,1/26/2020,,1
+China,1/27/2020,,1
+China,1/28/2020,,1
+China,1/29/2020,,1
+China,1/30/2020,,1
+China,1/31/2020,,1
 China,2/1/2020,waste water treatment,3
-China,2/1/2020,"social distancing, weddings canceled",3
-China,2/1/2020,blanket house confinement,3
-China,2/1/2020,"deregulation, economic incentives",3
-China,2/1/2020,"business suspension, school closure, university closure",3
-China,2/1/2020,economic stimulus,3
-China,2/1/2020,business suspension,3
-China,2/1/2020,business suspension,3
-China,2/1/2020,"funeral hygiene, hygiene enforcement, public hygiene",3
-China,2/1/2020,event cancellation,3
-China,2/1/2020,"hospital construction, treatment capacity",3
-China,2/1/2020,"business suspension, school closure, university closure",3
 China,2/2/2020,public hygiene,3
-China,2/2/2020,international aid,3
-China,2/2/2020,"hospital construction, hospital specialisation",3
-China,2/2/2020,blanket house confinement,3
-China,2/2/2020,speculative treatment,3
-China,2/2/2020,manufacturing capacity,3
-China,2/2/2020,"compulsory isolation, contact isolation",3
-China,2/2/2020,"deregulation, economic incentives",3
 China,2/3/2020,"cohort isolation, cruise ship",3
-China,2/3/2020,business suspension,3
 China,2/4/2020,economic stimulus,3
 China,2/5/2020,diagnostic criteria loosened,3
-China,2/5/2020,"hospital construction, hospital specialisation, treatment capacity",3
-China,2/5/2020,"hospital construction, hospital specialisation, treatment capacity",3
-China,2/5/2020,"intellectual property, pharmaceutical treatment",3
 China,2/6/2020,"deregulation, economic stimulus",3
-China,2/6/2020,epidemic data,3
-China,2/6/2020,"school closure, university closure",3
-China,2/6/2020,economic stimulus,3
-China,2/6/2020,"school closure, university closure",3
-China,2/6/2020,economic stimulus,3
-China,2/6/2020,"school closure, university closure",3
-China,2/6/2020,"school closure, university closure",3
 China,2/7/2020,medical aid,3
-China,2/7/2020,"encouraging symptomatic people to seek tests, fever medicine ban",3
 China,2/8/2020,business suspension,3
-China,2/8/2020,treatment capacity,3
-China,2/8/2020,economic stimulus,3
-China,2/8/2020,"hospital construction, treatment capacity",3
-China,2/8/2020,economic stimulus,3
-China,2/8/2020,business resumed,3
+China,2/9/2020,,3
 China,2/10/2020,event cancellation,3
 China,2/11/2020,economic stimulus,3
-China,2/11/2020,wild animal ban,3
 China,2/12/2020,"public transport limitation lifted, social distancing",3
 China,2/13/2020,"blanket house confinement, compulsory isolation",3
-China,2/13/2020,school closure,3
-China,2/13/2020,"business suspension, school closure",3
-China,2/13/2020,"public mask and hygiene supply, public mask wearing",3
-China,2/14/2020,"activity cancellation, school closure",3
-China,2/14/2020,"mandated remote work, remote work",3
-China,2/14/2020,"blanket house confinement, compulsory isolation",3
 China,2/14/2020,"contact tracing, phone based location tracing, public transport occupancy tracing",3
-China,2/15/2020,"blanket house confinement, compulsory isolation",3
-China,2/15/2020,business suspension,3
 China,2/15/2020,"cash hygiene, public hygiene",3
-China,2/16/2020,"compulsory isolation, gatherings of any people banned, natural village quarantine",3
-China,2/16/2020,"activity ban, activity cancellation, gatherings of any people banned",3
-China,2/16/2020,domestic travel resumed,3
-China,2/16/2020,"remote medical treatment, remote work",3
-China,2/16/2020,"contact tracing, phone based location tracing, public transport occupancy tracing",3
 China,2/16/2020,"economic stimulus, encouraging symptomatic people to seek tests, financial incentive, testing",3
 China,2/17/2020,"domestic travel resumed, public transport resumed",3
-China,2/17/2020,"blanket house confinement, compulsory isolation",3
-China,2/18/2020,"mandated remote schooling, remote schooling",3
-China,2/18/2020,"contact tracing, phone based location tracing, public transport occupancy tracing",3
 China,2/18/2020,business resumed,3
-China,2/19/2020,business suspension,3
-China,2/19/2020,domestic travel resumed,3
-China,2/19/2020,domestic traveller screening,3
-China,2/19/2020,"diagnostic criteria tightened, testing",3
-China,2/19/2020,public transport resumed,3
 China,2/19/2020,total vehicle ban,3
-China,2/20/2020,encouraging symptomatic people to seek tests,3
 China,2/20/2020,domestic travel resumed,3
-China,2/21/2020,domestic travel resumed,3
-China,2/21/2020,testing,3
 China,2/21/2020,"diagnostic criteria tightened, epidemic data",3
-China,2/22/2020,"compulsory isolation, discharged patient isolation, targeted isolation",2
-China,2/25/2020,"compulsory isolation, international traveller screening, targeted isolation",2
-China,2/25/2020,"compulsory isolation, international traveller screening, targeted isolation",2
-China,2/25/2020,"all inpatients tested, testing criteria loosened",2
-China,2/26/2020,"blanket testing, domestic traveller screening, testing",2
-China,2/27/2020,,2
-China,2/28/2020,,2
+China,2/22/2020,"compulsory isolation, discharged patient isolation, targeted isolation",3
+China,2/23/2020,,3
+China,2/24/2020,,3
+China,2/25/2020,"compulsory isolation, international traveller screening, targeted isolation",3
+China,2/26/2020,"blanket testing, domestic traveller screening, testing",3
+China,2/27/2020,,3
+China,2/28/2020,,3
 China,2/29/2020,,2
-China,3/1/2020,,2
-China,3/2/2020,,2
-China,3/3/2020,,2
-China,3/4/2020,,2
-China,3/5/2020,,2
-China,3/6/2020,,2
-China,3/7/2020,,2
-China,3/8/2020,,2
-China,3/9/2020,,2
-China,3/10/2020,,2
-China,3/11/2020,,2
-China,3/12/2020,,2
-China,3/13/2020,,2
-China,3/14/2020,,2
-China,3/15/2020,,2
-China,3/16/2020,,2
-China,3/17/2020,,2
-China,3/18/2020,,2
-China,3/19/2020,,2
-China,3/20/2020,,2
-China,3/21/2020,,1
-China,3/22/2020,,1
-China,3/23/2020,,1
-China,3/24/2020,,1
-China,3/25/2020,,1
-China,3/26/2020,,1
-China,3/27/2020,,1
+China,3/1/2020,,3
+China,3/2/2020,,3
+China,3/3/2020,,3
+China,3/4/2020,,3
+China,3/5/2020,,3
+China,3/6/2020,,3
+China,3/7/2020,,3
+China,3/8/2020,,3
+China,3/9/2020,,3
+China,3/10/2020,,3
+China,3/11/2020,,3
+China,3/12/2020,,3
+China,3/13/2020,,3
+China,3/14/2020,,3
+China,3/15/2020,,3
+China,3/16/2020,,3
+China,3/17/2020,,3
+China,3/18/2020,,3
+China,3/19/2020,,3
+China,3/20/2020,,3
+China,3/21/2020,,3
+China,3/22/2020,,3
+China,3/23/2020,,2
+China,3/24/2020,,2
+China,3/25/2020,,2
+China,3/26/2020,,2
+China,3/27/2020,,2
+China,3/28/2020,,2
+China,3/29/2020,,2
+China,3/30/2020,,2
+China,3/31/2020,,2
+China,4/1/2020,,2
+China,4/2/2020,,2
+China,4/3/2020,,2
+China,4/4/2020,,2
+China,4/5/2020,,2
+China,4/6/2020,,2
+China,4/7/2020,,1
